@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.Preview.HDE</id>
-    <version>0.0.6</version>
+    <version>0.0.7</version>
     <title>VL.Preview.HDE</title>
     <authors>vvvv</authors>
     <owners>vvvv</owners>
@@ -10,7 +10,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <summary>Inspect several nodes at once</summary>
     <description>Inspect several nodes at once</description>
-    <tags>inspect</tags>
+    <tags>VL, inspect, viewer, tooltip</tags>
 	<license type="expression">LGPL-3.0-only</license>
 	<icon>icon\nugeticon.png</icon>
   </metadata>
